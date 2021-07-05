@@ -1,0 +1,8 @@
+url:http://djustice-android.tumblr.com
+name:ChatBot
+email:jainakshatanil@gmail.com
+gender:male
+botmaster:Akshat Jain
+organization:Personal
+version:0.0.1
+
